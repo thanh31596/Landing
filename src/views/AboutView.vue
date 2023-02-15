@@ -6,8 +6,8 @@
     </div>
     <nav>
       <ul>
-        <li><a href="#" style="color:#FFFFFF">SĐT: 0913533266</a></li>
-        <li><a href="#" style="color:#FFFFFF">Email: anhdungtbb65@gmail.com</a></li>
+        <li><a href="#" style="color:#FFFFFF">SĐT: 091.296.2277</a></li>
+        <li><a href="#" style="color:#FFFFFF">Email: giavuthanhlong@gmail.com</a></li>
       </ul>
     </nav>
   </div>
